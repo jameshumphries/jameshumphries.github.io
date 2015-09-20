@@ -1,0 +1,31 @@
+# Site settings
+title: "James 'Trip' Humphries"
+email: james.humphries@knights.ucf.edu
+description: "James 'Trip' Humphries"
+baseurl: ""
+url: "http://jameshumphries.github.io"
+title_description: "PhD student at the University "
+title_image: "http://www.gravatar.com/avatar/355cb7f86700b270c5af1dad208e3ac2"
+google_analytics: "UA-66877686-1"
+disqus_account: 
+github_repository: https://github.com/jacobtomlinson/carte-noire
+addthis_id: ra-513c6fa83da6ec67
+post_limit: 5
+
+# Social usernames/URLs
+twitter_username: 
+github_username:  jameshumphries
+linkedin_link: https://www.linkedin.com/in/triphumphries
+google_plus_link: 
+stackoverflow_link: 
+
+# Footer
+footer_left: "Made with <i class=\"fa fa-heart\"></i> by <a href=\"https://twitter.com/_JacobTomlinson\">Jacob Tomlinson</a>"
+footer_right: "&lt;/&gt; on <a href=\"https://github.com/jacobtomlinson/carte-noire\">Github</a> &nbsp;<i class=\"fa fa-github-alt\"></i>"
+
+# Build settings
+markdown: redcarpet
+redcarpet:
+  extensions: ["no_intra_emphasis", "fenced_code_blocks", "autolink", "strikethrough", "superscript"]
+permalink: pretty
+exclude: [vendor]
