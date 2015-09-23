@@ -4,7 +4,7 @@ email: james.humphries@knights.ucf.edu
 description: "James 'Trip' Humphries"
 baseurl: ""
 url: "http://jameshumphries.github.io"
-title_description: "PhD student at the University "
+title_description: "PhD student at the University of Central Florida. Menu on the left for resume, publication list, and downloads. More content to come..."
 title_image: "http://www.gravatar.com/avatar/355cb7f86700b270c5af1dad208e3ac2"
 google_analytics: "UA-66877686-1"
 disqus_account: 
@@ -20,7 +20,7 @@ google_plus_link:
 stackoverflow_link: 
 
 # Footer
-footer_left: "Made with <i class=\"fa fa-heart\"></i> by <a href=\"https://twitter.com/_JacobTomlinson\">Jacob Tomlinson</a>"
+footer_left: "Theme by <a href=\"https://twitter.com/_JacobTomlinson\">Jacob Tomlinson</a>"
 footer_right: "&lt;/&gt; on <a href=\"https://github.com/jacobtomlinson/carte-noire\">Github</a> &nbsp;<i class=\"fa fa-github-alt\"></i>"
 
 # Build settings
